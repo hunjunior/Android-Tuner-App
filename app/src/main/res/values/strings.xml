@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PolyTuner</string>
+    <string name="polyStart">Polyphonic</string>
+    <string name="chromaticStart">Chromatic</string>
+</resources>
